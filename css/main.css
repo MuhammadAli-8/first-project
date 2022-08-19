@@ -1,0 +1,14 @@
+/* Start Variables */
+:root {
+  --main-color: #10cab7;
+  --secondary-color: #2c4755;
+}
+/* End Variables */
+/* Start Global Rules */
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Work Sans", sans-serif;
+}
+/* End Global Rules */
